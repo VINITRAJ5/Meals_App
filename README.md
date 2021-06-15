@@ -25,7 +25,7 @@
 
  ## This is the Detail Page Of  Single Food <h2>
     This Screen Contain Information of Following
-> 1.  Food Ingrediants Ingrediant
+> 1.  Required Food Ingredients
    >> 2. Steps For Making that food
    
 <img src="https://github.com/VINITRAJ5/Meals_App/blob/master/ScreenShots/1%20(5).jpg" width="280">
